@@ -1,2 +1,2 @@
-# -globalsupplyab
+# globalsupplyab
 global supply hemsida
