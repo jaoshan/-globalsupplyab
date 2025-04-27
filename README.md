@@ -1,0 +1,2 @@
+# -globalsupplyab
+global supply hemsida
